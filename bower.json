@@ -1,0 +1,23 @@
+{
+  "name": "gsri",
+  "description": "chatbot",
+  "main": "Client/index.html",
+  "authors": [
+    "Akshay Kumar <kumaraksi@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kumaraksi/chatBot",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "socket.io": "^2.0.3",
+    "bootstrap": "^3.3.7",
+    "Bootflat": "^2.0.4"
+  }
+}
